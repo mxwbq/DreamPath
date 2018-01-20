@@ -10,6 +10,7 @@
  - 操作系统：win10
  - 语言：Python 版本：3.6.0
  - Python库：AipSpeech(百度语音识别SDK客户端），wave，PyAudio，paInt16
+ - [百度API权限](http://ai.baidu.com/docs#/ASR-API/top)
 
     ###Python库安装：除百度为：pip install baidu-aip，其他直接 pip install *（库名） 即可。
  

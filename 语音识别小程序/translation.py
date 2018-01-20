@@ -7,9 +7,9 @@ Created on Sat Jan 20 14:05:16 2018
 
 from aip import AipSpeech
 class Translation:
-    __APP_ID = '10516598'
-    __API_KEY = 'hCbBk9R0hBQM50EQViBfwM9l'
-    __SECRET_KEY = 'eSwUqjyrOhxKz9G6gT93lTMo7iDstoQI'
+    __APP_ID = '****' # 百度语音API
+    __API_KEY = '****'
+    __SECRET_KEY = '****'
     
     __client = AipSpeech(__APP_ID, __API_KEY, __SECRET_KEY)
     

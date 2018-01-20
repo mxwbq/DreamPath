@@ -19,7 +19,7 @@
 利用wave，PyAudio搭建一个wav格式的简易录音机，基于百度API进行wav格式的音频转文本。
 
  - 简易录音机类（WWAV）有__save_wave_file音频文件保存方法与my_record音频录制方法。在录制音频的方法中，加入了有效音频测试的代码，可以测试一小段时间内是否有有效音频输入，否则退出音频录制。
- - 转换类（Translation）则为__get_file_content方法与get_word音频转换主方法。
+ - 音频转换类（Translation）则为__get_file_content方法与get_word音频转换主方法。
 
 ## 四、核心代码
 

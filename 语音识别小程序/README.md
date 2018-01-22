@@ -10,7 +10,7 @@
  - 语言：Python 版本：3.6.0
  - Python库：AipSpeech(百度语音识别SDK客户端），wave，PyAudio，paInt16
 
-    ###Python库安装：除百度为：pip install baidu-aip，其他直接 pip install *（库名） 即可。
+###Python库安装：除百度为：pip install baidu-aip，其他直接 pip install *（库名） 即可。
  
 ## 三、原理概述
 
